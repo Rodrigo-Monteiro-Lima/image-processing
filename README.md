@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 - [x] Instalção do Pacote
 
-Use o gerenciador de pacotes ```pip install -i https://test.pypi.org/simple/ img-processing-test==0.0.1``para instalar image_processing-test
+Use o gerenciador de pacotes ```pip install -i https://test.pypi.org/simple/ img-processing-test==0.0.1``` para instalar image_processing-test
 
 ```bash
 pip install image-processing-test
